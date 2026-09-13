@@ -1,0 +1,14 @@
+# C++ build files
+*.o
+*.out
+a.out
+
+# Build directory
+build/
+
+# Executables
+main
+program
+
+# macOS
+.DS_Store
